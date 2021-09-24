@@ -2,6 +2,7 @@
 
 ## Lista de presença
 - André Altoé
+- Matheus Bernardes
 - Gustavo Dutra
 - Henrycky Wottikosky
 - André Altoé
