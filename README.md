@@ -2,6 +2,7 @@
 
 ## Lista de presença
 - André Altoé
+- Heber Lima
 - Carlos Daniel Albertino
 - Breno Vimercati
 - Matheus Bernardes
