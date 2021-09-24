@@ -2,6 +2,7 @@
 
 ## Lista de presença
 - André Altoé
+- Gustavo Dutra
 - Henrycky Wottikosky
 - André Altoé
 - Vinicius Moraes
