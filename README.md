@@ -2,10 +2,10 @@
 
 ## Lista de presença
 - André Altoé
+- Breno Vimercati
 - Matheus Bernardes
 - Gustavo Dutra
 - Henrycky Wottikosky
-- André Altoé
 - Vinicius Moraes
 - Evandro Marques
 - Lucas Manfioletti
