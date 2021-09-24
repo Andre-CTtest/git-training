@@ -2,6 +2,7 @@
 
 ## Lista de presença
 - André Altoé
+- Carlos Daniel Albertino
 - Breno Vimercati
 - Matheus Bernardes
 - Gustavo Dutra
