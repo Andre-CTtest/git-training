@@ -13,4 +13,6 @@
 - Lucas Manfioletti
 - Leonardo Albergaria
 - Felipe Umpierre
+- Bruna Carlette
 - teste
+
